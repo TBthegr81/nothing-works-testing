@@ -3,7 +3,7 @@
   [
     {
       "appId": "54df04ac",
-      "root": "/",
+      "root": ".",
       "dependencyInstallCommand": "echo lol"
     }
   ]
