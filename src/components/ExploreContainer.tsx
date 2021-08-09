@@ -10,6 +10,7 @@ const ExploreContainer: React.FC<ContainerProps> = ({ name }) => {
       <strong>{name}</strong>
       <p>Explore <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/components">UI Components</a></p>
         <h1>This is a message in peace</h1>
+        <img src={"/assets/Img.jpg"}/>
     </div>
   );
 };
