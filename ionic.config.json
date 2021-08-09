@@ -1,0 +1,8 @@
+{
+  "name": "NothingWorksTesting",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "54df04ac"
+}
