@@ -3,7 +3,8 @@
   [
     {
       "appId": "54df04ac",
-      "root": "."
+      "root": ".",
+      "dependencyInstallCommand": "cp App2/Img.jpg public/assets/"
     }
   ]
 }
