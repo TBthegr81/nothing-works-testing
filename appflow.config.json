@@ -4,7 +4,12 @@
     {
       "appId": "54df04ac",
       "root": ".",
-      "dependencyInstallCommand": "ls -al && cp App2/Img.jpg public/assets/ && npm install"
+      "dependencyInstallCommand": "cp App2/Img.jpg public/assets/ && npm install"
+    },
+    {
+      "appId": "df219823",
+      "root": ".",
+      "dependencyInstallCommand": "cp App1/Img.jpg public/assets/ && npm install"
     }
   ]
 }
