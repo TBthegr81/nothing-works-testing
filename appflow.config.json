@@ -4,7 +4,7 @@
     {
       "appId": "54df04ac",
       "root": ".",
-      "dependencyInstallCommand": "ls -al && cp App2/Img.jpg public/assets/"
+      "dependencyInstallCommand": "ls -al && cp App2/Img.jpg public/assets/ && npm install"
     }
   ]
 }
